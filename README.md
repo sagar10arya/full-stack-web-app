@@ -21,8 +21,8 @@ Styling lib's: `Shadcn`, `Tailwindcss`
 - Download or clone repository
 - Run `npm install`
 
+- To start :
 ```js
-Make changes to your .env.local file from appwrite
+npm run dev
 ```
 
-- To start :  `npm run dev`
