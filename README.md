@@ -2,7 +2,7 @@
 
 Full Stack Social Media App
 
-## Demo:
+## Demo :
 
 See the site : [sa-snapgram.netlify.app](https://sa-snapgram.netlify.app)
 
