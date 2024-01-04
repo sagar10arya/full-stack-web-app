@@ -20,18 +20,9 @@ Styling lib's: `Shadcn`, `Tailwindcss`
 
 - Download or clone repository
 - Run `npm install`
-- Add env.local variables from appwrite
 
 ```js
-.env.local file :
-
-VITE_APPWRITE_PROJECT_ID = " "
-VITE_APPWRITE_URL = " "
-VITE_APPWRITE_STORAGE_ID = " "
-VITE_APPWRITE_DATABASE_ID = " "
-VITE_APPWRITE_SAVES_COLLECTION_ID = " "
-VITE_APPWRITE_POST_COLLECTION_ID = " "
-VITE_APPWRITE_USER_COLLECTION_ID = " "
+Make changes to your .env.local file from appwrite
 ```
 
 - To start :  `npm run dev`
